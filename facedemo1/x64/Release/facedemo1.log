@@ -1,0 +1,11 @@
+﻿  facedemo1.cpp
+c:\users\julie\documents\visual studio 2015\projects\facedemo1\facedemo1\include\face_identification.h(44): warning C4010: 单行注释包含行继续符
+c:\users\julie\documents\visual studio 2015\projects\facedemo1\facedemo1\include\face_identification.h(46): warning C4010: 单行注释包含行继续符
+c:\users\julie\documents\visual studio 2015\projects\facedemo1\facedemo1\include\face_identification.h(47): warning C4010: 单行注释包含行继续符
+c:\users\julie\documents\visual studio 2015\projects\facedemo1\facedemo1\include\face_identification.h(53): warning C4010: 单行注释包含行继续符
+c:\users\julie\documents\visual studio 2015\projects\facedemo1\facedemo1\include\face_identification.h(70): warning C4010: 单行注释包含行继续符
+c:\users\julie\documents\visual studio 2015\projects\facedemo1\facedemo1\include\face_identification.h(71): warning C4010: 单行注释包含行继续符
+c:\users\julie\documents\visual studio 2015\projects\facedemo1\facedemo1\include\face_identification.h(82): warning C4010: 单行注释包含行继续符
+    正在创建库 D:\facedemo1\x64\Release\facedemo1.lib 和对象 D:\facedemo1\x64\Release\facedemo1.exp
+  facedemo1.vcxproj -> D:\facedemo1\x64\Release\facedemo1.exe
+  facedemo1.vcxproj -> D:\facedemo1\x64\Release\facedemo1.pdb (Full PDB)
